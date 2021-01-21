@@ -40,7 +40,7 @@ Si vous souhaitez voir le site en ligne, sautez cette étape.
 Sinon, téléchargez le projet via GitHub ou en ligne de commande: git clone https://github.com/drucimimi/burger-code.git
 
 ## Démarrage
-Pour lancer le projet en ligne, tapez l'url suivante dans votre navigateur web : https://drucimimi.github.io/burger-code
+Pour lancer le projet en ligne, tapez l'url suivante dans votre navigateur web : http://burger-code.42web.io
 
 Pour lancer le projet en local, lancer le fichier index.php avec votre navigateur web.
 
