@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Holtwood One SC';
+    src: url('HoltwoodOneSC.eot');
+    src: local('Holtwood One SC'), local('HoltwoodOneSC'),
+        url('HoltwoodOneSC.eot?#iefix') format('embedded-opentype'),
+        url('HoltwoodOneSC.woff2') format('woff2'),
+        url('HoltwoodOneSC.woff') format('woff'),
+        url('HoltwoodOneSC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
