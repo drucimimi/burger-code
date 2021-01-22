@@ -52,9 +52,9 @@ HTML5/CSS3
 PHP7/MySQL5.6
 
 ## Versions
-Dernière version stable : 1.0 
+Dernière version stable : 1.0.2 
 
-Dernière version : 1.0 
+Dernière version : 1.0.2 
 
 Liste des versions : [Cliquer pour afficher](https://github.com/drucimimi/burger-code/tags)
 
