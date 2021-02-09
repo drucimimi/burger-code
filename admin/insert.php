@@ -9,7 +9,7 @@
     $price = checkInput($_POST['price']);
     $category = checkInput($_POST['category']);
     $image = checkInput($_FILES['image']['name']);
-    $imagePath = '../img/' . basename($image);
+    $imagePath = '../assets/img/' . basename($image);
     $imageExtension = pathinfo($imagePath, PATHINFO_EXTENSION);
     $isSuccess = true;
     $isUploadSuccess = false;
@@ -78,11 +78,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Burger Code</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href='http://fonts.googleapis.com/css?family=Holtwood+One+SC' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="../css/style.css" type="text/css">
+    <script src="../assets/js/jquery-3.5.1.js"></script>
+    <link rel="stylesheet" href="../assets/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <script src="../assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../assets/css/style.css" type="text/css">
   </head>
 
   <body>
