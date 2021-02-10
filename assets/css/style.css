@@ -23,17 +23,24 @@ body{
   padding: 40px 0px;
   text-align: center;
 }
-.text-logo .glyphicon{
+.text-logo .fas{
   color: #ffd301;
   text-shadow: 0px 0px #ffd301;
+}
+.btn-warning, .btn-warning:hover{
+  color: #fff;
 }
 
 /*SITE*/
 .nav{
   margin-bottom: 40px;
 }
-.thumbnail img{
+.site .bg-light{
+  padding: 10px;
+}
+.site .bg-light img{
   background: #ffd301;
+  margin: 10px;
 }
 .price{
   background: #5cb85c;
@@ -44,7 +51,7 @@ body{
   text-shadow: 2px 2px #333;
   position: absolute;
   right: 6px;
-  top: 20px;
+  top: 15px;
   padding: 5px 10px;
   font-size: 20px;
   border-radius: 3px;
@@ -62,8 +69,8 @@ body{
   color: #e7480f;
   font-size: 18px;
 }
-.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
-  background: #e7480f;
+.nav-pills>li>a.active, .nav-pills>li>a.active:focus, .nav-pills>li>a.active:hover{
+  background-color: #e7480f !important;
 }
 .nav>li>a:focus, .nav>li>a:hover{
   color: #e7480f;

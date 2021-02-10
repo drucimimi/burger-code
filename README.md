@@ -47,14 +47,20 @@ Pour lancer le projet en local, lancer le fichier index.php avec votre navigateu
 ## Fabriqué avec
 [Atom](https://atom.io/) - éditeur de texte
 
-HTML5/CSS3
+HTML5/CSS3 - structure et mise en forme du site
 
-PHP7/MySQL5.6
+PHP7/MySQL5.6 - contenu dynamique et stocké dans une base de données
+
+[Bootstrap](https://getbootstrap.com) - mise en forme rapide du site
+
+[jQuery](https://jquery.com/) - rendu dynamique du site
+
+[FontAwesome](https://fontawesome.com/) - glyphicons Bootstrap
 
 ## Versions
-Dernière version stable : 1.0.1
+Dernière version stable : 1.1
 
-Dernière version : 1.0.1
+Dernière version : 1.1
 
 Liste des versions : [Cliquer pour afficher](https://github.com/drucimimi/burger-code/tags)
 
